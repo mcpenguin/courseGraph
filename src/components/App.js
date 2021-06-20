@@ -87,6 +87,7 @@ class App extends React.Component {
         // }
       },
       options: {
+        autoResize: true,
         layout: {
           hierarchical: {
             enabled: true,

@@ -108,7 +108,7 @@ function generateCourseEdge(subjectCode, catalogNumber, subjectCodePrereq, catal
         to: `${subjectCode} ${catalogNumber}`,
         arrows: 'to',
         color: {
-            color: '#bdbdbd',
+            color: '#8d8d8d',
             inherit: 'from',
         },
     }
